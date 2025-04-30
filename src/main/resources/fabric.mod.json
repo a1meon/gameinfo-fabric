@@ -13,10 +13,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "com.cxk.gameinfo.GameinfoClient"
+      "com.amu.gameinfo.GameinfoClient"
     ],
     "main": [
-      "com.cxk.gameinfo.Gameinfo"
+      "com.amu.gameinfo.Gameinfo"
     ]
   },
   "depends": {
