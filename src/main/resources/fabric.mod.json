@@ -3,8 +3,8 @@
   "id": "gameinfo",
   "version": "${version}",
   "name": "gameinfo",
-  "description": "原作者已停止维护，本模组二开自用，抖音啊沐（amuamu789）",
-  "authors": ["ifcifc(原作者)","啊沐"],
+  "description": "",
+  "authors": ["a1meon"],
   "contact": {
     "repo": "无"
   },
@@ -13,10 +13,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "com.amu.gameinfo.GameinfoClient"
+      "com.a1meon.gameinfo.GameinfoClient"
     ],
     "main": [
-      "com.amu.gameinfo.Gameinfo"
+      "com.a1meon.gameinfo.Gameinfo"
     ]
   },
   "depends": {

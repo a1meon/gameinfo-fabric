@@ -1,7 +1,7 @@
-package com.amu.gameinfo.hud;
+package com.a1meon.gameinfo.hud;
 
-import com.amu.gameinfo.GameinfoClient;
-import com.amu.gameinfo.config.GameInfoConfig;
+import com.a1meon.gameinfo.GameinfoClient;
+import com.a1meon.gameinfo.config.GameInfoConfig;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
 import net.fabricmc.fabric.api.client.keybinding.v1.KeyBindingHelper;
 import net.fabricmc.fabric.api.client.rendering.v1.HudRenderCallback;
