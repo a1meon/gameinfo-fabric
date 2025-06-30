@@ -1,7 +1,7 @@
-package com.amu.gameinfo.command;
+package com.a1meon.gameinfo.command;
 
-import com.amu.gameinfo.GameinfoClient;
-import com.amu.gameinfo.config.GameInfoConfig;
+import com.a1meon.gameinfo.GameinfoClient;
+import com.a1meon.gameinfo.config.GameInfoConfig;
 import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.arguments.BoolArgumentType;
 import com.mojang.brigadier.arguments.DoubleArgumentType;

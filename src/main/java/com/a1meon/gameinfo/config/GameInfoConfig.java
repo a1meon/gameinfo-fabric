@@ -1,4 +1,4 @@
-package com.amu.gameinfo.config;
+package com.a1meon.gameinfo.config;
 
 import java.io.File;
 import java.io.FileInputStream;

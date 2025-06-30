@@ -1,4 +1,4 @@
-package com.amu.gameinfo;
+package com.a1meon.gameinfo;
 
 import net.fabricmc.api.ModInitializer;
 

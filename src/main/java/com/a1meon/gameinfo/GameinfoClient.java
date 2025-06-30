@@ -1,8 +1,8 @@
-package com.amu.gameinfo;
+package com.a1meon.gameinfo;
 
-import com.amu.gameinfo.command.GameInfoCommand;
-import com.amu.gameinfo.config.GameInfoConfig;
-import com.amu.gameinfo.hud.HudOverlay;
+import com.a1meon.gameinfo.command.GameInfoCommand;
+import com.a1meon.gameinfo.config.GameInfoConfig;
+import com.a1meon.gameinfo.hud.HudOverlay;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.rendering.v1.HudRenderCallback;
 import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;

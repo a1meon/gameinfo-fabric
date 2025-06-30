@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "gameinfo",
   "description": "",
-  "authors": ["啊沐"],
+  "authors": ["a1meon"],
   "contact": {
     "repo": "无"
   },
@@ -13,10 +13,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "com.amu.gameinfo.GameinfoClient"
+      "com.a1meon.gameinfo.GameinfoClient"
     ],
     "main": [
-      "com.amu.gameinfo.Gameinfo"
+      "com.a1meon.gameinfo.Gameinfo"
     ]
   },
   "depends": {
